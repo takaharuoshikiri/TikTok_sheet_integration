@@ -1,0 +1,12 @@
+# 機密情報ディレクトリ
+.seacrets/
+
+# JSON形式の認証ファイル（誤って他にも含めたくない場合）
+*.json
+
+# IDEやOSが自動生成する不要ファイル（汎用）
+.DS_Store
+*.log
+*.env
+node_modules/
+__pycache__/
