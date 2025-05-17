@@ -1,0 +1,14 @@
+{
+    "code": 0,
+    "message": "OK",
+    "request_id": "202405270246172EF7DC8BA305CE00F5FA",
+    "data": {
+        "access_token": "act.GSYymtC3pTQT8CkNF6X3cALdV4xdnDC3ZsXExPFrvFqCLN3vmQPX0TeaPvjo!5305.va",
+        "expires_in": 86400,
+        "open_id": "-000ZgoTJ8Es9dJ305lI2vvijiz8Z5q9T_3T",
+        "refresh_token": "rft.8i2IQAXG36y5ubTyZHwdPOqqyGpm7KiTgDiyKL5KRBKiimzBdpTt2Mpjop03!5299.va",
+        "refresh_token_expires_in": 31536000,
+        "scope": "video.list,video.insights,comment.list.manage,video.publish,user.info.username,user.info.stats,user.insights,comment.list,user.info.basic,user.account.type",
+        "token_type": "Bearer"
+    }
+}

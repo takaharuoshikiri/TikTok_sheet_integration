@@ -1,0 +1,84 @@
+{
+    "code": 0,
+    "message": "OK",
+    "request_id": "2021080307532501024502410704A7306F",
+    "data": {
+        "videos": [
+            {
+                "item_id": "6990565363377392901",
+                "create_time": "1627617835",
+                "thumbnail_url": "http://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c85b70edfca14b7b89cc2e1e884ee268~tplv-noop.image?x-expires=1627998825&x-signature=1pMnzQjXnN%2BMWQHK0Vl2zfT%2BRoY%3D",
+                "share_url": "https://www.tiktok.com/@feather_in_the_w1nd/video/6990565363377392901?utm_campaign=tt4d_open_api&utm_source=6979330045630218242",
+                "embed_url": "https://www.tiktok.com/embed/v2/6990565363377392901",
+                "caption": "little coco",
+                "video_views": 1231,
+                "video_duration": 20.0,
+                "likes": 10,
+                "comments": 2,
+                "shares": 0,
+                "reach": 154,
+                "full_video_watched_rate": 0.0237,
+                "total_time_watched": 695.942,
+                "average_time_watched": 4.118,
+                "impression_sources": [
+                    {
+                        "percentage": 0.8983,
+                        "impression_source": "For You"
+                    },
+                    {
+                        "percentage": 0.0113,
+                        "impression_source": "Follow"
+                    },
+                    {
+                        "percentage": 0.0,
+                        "impression_source": "Hashtag"
+                    },
+                    {
+                        "percentage": 0.0,
+                        "impression_source": "Sound"
+                    },
+                    {
+                        "percentage": 0.0904,
+                        "impression_source": "Personal Profile"
+                    },
+                    {
+                        "percentage": 0.2,
+                        "impression_source": "other_profile_vv"
+                    },
+                    {
+                        "percentage": 0.14,
+                        "impression_source": "Search"
+                    }
+                ],
+                "audience_countries": [
+                    {
+                        "percentage": 0.0237,
+                        "country": "CA"
+                    },
+                    {
+                        "percentage": 0.1775,
+                        "country": "GB"
+                    },
+                    {
+                        "percentage": 0.0118,
+                        "country": "NL"
+                    },
+                    {
+                        "percentage": 0.0059,
+                        "country": "PR"
+                    },
+                    {
+                        "percentage": 0.7574,
+                        "country": "US"
+                    },
+                    {
+                        "percentage": 0.0059,
+                        "country": "VE"
+                    }
+                ]
+            }
+        ],
+        "cursor": 0,
+        "has_more": false
+    }
+}

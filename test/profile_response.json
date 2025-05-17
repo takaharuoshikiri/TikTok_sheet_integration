@@ -1,0 +1,68 @@
+{
+    "code": 0,
+    "message": "OK",
+    "request_id": "202108030711080102450310564DA3B2EB",
+    "data": {
+        "profile_image": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/188d468fc1de3f328250ea0c96e98f8b~c5_100x100.webp?x-expires=1628060400&x-signature=BnPoX8rWsYZZ%2BtyzCoWanxYdRyg%3D",
+        "username": "la_flama_blanca",
+        "display_name": "Display Name",
+        "followers_count": 1124,
+        "audience_countries": [
+            {
+                "percentage": 0.1797,
+                "country": "MY"
+            },
+            {
+                "percentage": 0.5996,
+                "country": "TW"
+            },
+            {
+                "percentage": 0.0629,
+                "country": "VN"
+            }
+        ],
+        "audience_genders": [
+            {
+                "percentage": 0.6031,
+                "gender": "Female"
+            },
+            {
+                "percentage": 0.1685,
+                "gender": "Male"
+            },
+            {
+                "percentage": 0.2283,
+                "gender": "Other"
+            }
+        ],
+        "metrics": [
+            {
+                "date": "2024-05-25",
+                "followers_count": 4,
+                "profile_views": 10,
+                "video_views": 1126,
+                "comments": 4,
+                "shares": 0,
+                "likes": 26
+            },
+            {
+                "date": "2024-05-26",
+                "followers_count": 6,
+                "profile_views": 15,
+                "video_views": 312,
+                "comments": 0,
+                "shares": 0,
+                "likes": 15
+            },
+            {
+                "date": "2024-05-27",
+                "followers_count": 8,
+                "profile_views": 20,
+                "video_views": 283,
+                "comments": 0,
+                "shares": 0,
+                "likes": 19
+            }
+        ]
+    }
+}

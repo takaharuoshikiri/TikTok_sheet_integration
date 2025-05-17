@@ -1,0 +1,21 @@
+VIDEO_FIELDS = [
+    "item_id",
+    "caption",
+    "video_duration",
+    "likes",
+    "comments",
+    "shares",
+    "favorites",
+    "create_time",
+    "reach",
+    "video_views",
+    "total_time_watched",
+    "average_time_watched",
+    "full_video_watched_rate",
+    "new_followers",
+    "profile_views",
+    "website_clicks",
+    "phone_number_clicks",
+    "video_view_retention",
+    "engagement_likes"
+]

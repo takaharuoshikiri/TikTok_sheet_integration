@@ -1,0 +1,101 @@
+{
+    "code": 0,
+    "message": "OK",
+    "request_id": "2025042711223734A4C68CBEF4ECCABD96",
+    "data": {
+        "total_likes": 94082,
+        "display_name": "賃金発生中！",
+        "metrics": [
+            {
+                "unique_video_views": 0,
+                "profile_views": 0,
+                "shares": 0,
+                "followers_count": 1762,
+                "comments": 0,
+                "engaged_audience": 0,
+                "date": "2025-04-19",
+                "bio_link_clicks": 0,
+                "video_views": 11
+            },
+            {
+                "unique_video_views": 0,
+                "profile_views": 1,
+                "shares": 0,
+                "followers_count": 1762,
+                "comments": 0,
+                "engaged_audience": 0,
+                "date": "2025-04-20",
+                "bio_link_clicks": 0,
+                "video_views": 8
+            },
+            {
+                "unique_video_views": 0,
+                "profile_views": 0,
+                "shares": 0,
+                "followers_count": 1762,
+                "comments": 0,
+                "engaged_audience": 0,
+                "date": "2025-04-21",
+                "bio_link_clicks": 0,
+                "video_views": 8
+            },
+            {
+                "unique_video_views": 0,
+                "profile_views": 0,
+                "shares": 0,
+                "followers_count": 1762,
+                "comments": 0,
+                "engaged_audience": 0,
+                "date": "2025-04-22",
+                "bio_link_clicks": 0,
+                "video_views": 3
+            },
+            {
+                "unique_video_views": 0,
+                "profile_views": 0,
+                "shares": 0,
+                "followers_count": 1762,
+                "comments": 0,
+                "engaged_audience": 0,
+                "date": "2025-04-23",
+                "bio_link_clicks": 0,
+                "video_views": 5
+            },
+            {
+                "unique_video_views": 0,
+                "profile_views": 0,
+                "shares": 0,
+                "followers_count": 1762,
+                "comments": 0,
+                "engaged_audience": 0,
+                "date": "2025-04-24",
+                "bio_link_clicks": 0,
+                "video_views": 3
+            },
+            {
+                "unique_video_views": 0,
+                "profile_views": 0,
+                "shares": 0,
+                "followers_count": 1762,
+                "comments": 0,
+                "engaged_audience": 0,
+                "date": "2025-04-25",
+                "bio_link_clicks": 0,
+                "video_views": 3
+            },
+            {
+                "unique_video_views": 0,
+                "profile_views": 0,
+                "shares": 0,
+                "followers_count": 1762,
+                "comments": 0,
+                "engaged_audience": 0,
+                "date": "2025-04-18",
+                "bio_link_clicks": 0,
+                "video_views": 10
+            }
+        ],
+        "username": "zenryokumate",
+        "followers_count": 1762
+    }
+}

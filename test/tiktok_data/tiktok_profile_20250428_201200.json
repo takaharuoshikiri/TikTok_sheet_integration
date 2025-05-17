@@ -1,0 +1,24 @@
+{
+    "code": 0,
+    "message": "OK",
+    "request_id": "20250428111158EE3ECAD3DEBE4DF77F92",
+    "data": {
+        "username": "zenryokumate",
+        "metrics": [
+            {
+                "comments": 0,
+                "video_views": 3,
+                "engaged_audience": 0,
+                "bio_link_clicks": 0,
+                "date": "2025-04-26",
+                "followers_count": 1762,
+                "profile_views": 0,
+                "unique_video_views": 0,
+                "shares": 0
+            }
+        ],
+        "total_likes": 94082,
+        "followers_count": 1762,
+        "display_name": "賃金発生中！"
+    }
+}

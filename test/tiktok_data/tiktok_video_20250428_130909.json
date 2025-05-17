@@ -1,0 +1,1767 @@
+{
+    "code": 0,
+    "message": "OK",
+    "request_id": "202504280409060912F16FD357C8E7AFDB",
+    "data": {
+        "cursor": 1687771455000,
+        "videos": [
+            {
+                "reach": 1668006,
+                "shares": 577,
+                "website_clicks": 0,
+                "average_time_watched": 17.13,
+                "comments": 448,
+                "engagement_likes": [
+                    {
+                        "second": "27",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "11",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "16",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "21",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "10",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "2",
+                        "percentage": 0.08
+                    },
+                    {
+                        "second": "9",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "3",
+                        "percentage": 0.05
+                    },
+                    {
+                        "second": "20",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "22",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "26",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "14",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "18",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "8",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "0",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "1",
+                        "percentage": 0.14
+                    },
+                    {
+                        "second": "13",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "24",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "5",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "6",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "17",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "23",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "4",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "25",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "7",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "12",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "15",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "19",
+                        "percentage": 0.03
+                    }
+                ],
+                "video_views": 1787774,
+                "likes": 10129,
+                "video_duration": 27.667,
+                "total_time_watched": 31120514.0,
+                "video_view_retention": [
+                    {
+                        "second": "13",
+                        "percentage": 0.43
+                    },
+                    {
+                        "second": "22",
+                        "percentage": 0.34
+                    },
+                    {
+                        "second": "24",
+                        "percentage": 0.32
+                    },
+                    {
+                        "second": "26",
+                        "percentage": 0.3
+                    },
+                    {
+                        "second": "8",
+                        "percentage": 0.46
+                    },
+                    {
+                        "second": "10",
+                        "percentage": 0.45
+                    },
+                    {
+                        "second": "14",
+                        "percentage": 0.42
+                    },
+                    {
+                        "second": "18",
+                        "percentage": 0.39
+                    },
+                    {
+                        "second": "9",
+                        "percentage": 0.45
+                    },
+                    {
+                        "second": "0",
+                        "percentage": 1.0
+                    },
+                    {
+                        "second": "11",
+                        "percentage": 0.44
+                    },
+                    {
+                        "second": "19",
+                        "percentage": 0.37
+                    },
+                    {
+                        "second": "23",
+                        "percentage": 0.33
+                    },
+                    {
+                        "second": "2",
+                        "percentage": 0.66
+                    },
+                    {
+                        "second": "3",
+                        "percentage": 0.6
+                    },
+                    {
+                        "second": "5",
+                        "percentage": 0.51
+                    },
+                    {
+                        "second": "1",
+                        "percentage": 0.84
+                    },
+                    {
+                        "second": "16",
+                        "percentage": 0.41
+                    },
+                    {
+                        "second": "17",
+                        "percentage": 0.4
+                    },
+                    {
+                        "second": "25",
+                        "percentage": 0.31
+                    },
+                    {
+                        "second": "7",
+                        "percentage": 0.47
+                    },
+                    {
+                        "second": "20",
+                        "percentage": 0.36
+                    },
+                    {
+                        "second": "21",
+                        "percentage": 0.35
+                    },
+                    {
+                        "second": "4",
+                        "percentage": 0.54
+                    },
+                    {
+                        "second": "6",
+                        "percentage": 0.49
+                    },
+                    {
+                        "second": "12",
+                        "percentage": 0.44
+                    },
+                    {
+                        "second": "15",
+                        "percentage": 0.41
+                    },
+                    {
+                        "second": "27",
+                        "percentage": 0.29
+                    }
+                ],
+                "new_followers": 0,
+                "phone_number_clicks": 0,
+                "item_id": "7301242590496705810",
+                "favorites": 1479,
+                "full_video_watched_rate": 0.3193,
+                "create_time": "1699953015",
+                "caption": "診断結果はコメント欄へ📝#社長 #部下 #ベンチャー企業 #大阪 #心理テスト "
+            },
+            {
+                "reach": 17179,
+                "shares": 8,
+                "website_clicks": 0,
+                "average_time_watched": 25.86,
+                "comments": 11,
+                "engagement_likes": [
+                    {
+                        "second": "6",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "1",
+                        "percentage": 0.18
+                    },
+                    {
+                        "second": "27",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "69",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "0",
+                        "percentage": 0.21
+                    },
+                    {
+                        "second": "50",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "52",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "16",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "33",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "38",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "54",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "57",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "67",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "71",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "17",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "42",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "55",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "8",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "12",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "15",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "37",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "63",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "68",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "70",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "10",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "40",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "24",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "36",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "64",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "7",
+                        "percentage": 0.05
+                    },
+                    {
+                        "second": "25",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "26",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "34",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "41",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "44",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "48",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "60",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "13",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "20",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "22",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "3",
+                        "percentage": 0.07
+                    },
+                    {
+                        "second": "30",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "31",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "5",
+                        "percentage": 0.08
+                    },
+                    {
+                        "second": "73",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "14",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "9",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "2",
+                        "percentage": 0.13
+                    },
+                    {
+                        "second": "23",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "28",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "39",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "59",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "66",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "18",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "32",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "46",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "53",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "56",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "58",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "72",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "19",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "43",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "45",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "51",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "61",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "29",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "21",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "47",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "62",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "11",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "65",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "4",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "49",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "35",
+                        "percentage": 0.02
+                    }
+                ],
+                "video_views": 19152,
+                "likes": 103,
+                "video_duration": 73.9,
+                "profile_views": 314,
+                "total_time_watched": 496422.0,
+                "video_view_retention": [
+                    {
+                        "second": "40",
+                        "percentage": 0.21
+                    },
+                    {
+                        "second": "44",
+                        "percentage": 0.21
+                    },
+                    {
+                        "second": "47",
+                        "percentage": 0.2
+                    },
+                    {
+                        "second": "51",
+                        "percentage": 0.2
+                    },
+                    {
+                        "second": "53",
+                        "percentage": 0.19
+                    },
+                    {
+                        "second": "8",
+                        "percentage": 0.35
+                    },
+                    {
+                        "second": "1",
+                        "percentage": 0.82
+                    },
+                    {
+                        "second": "27",
+                        "percentage": 0.24
+                    },
+                    {
+                        "second": "45",
+                        "percentage": 0.2
+                    },
+                    {
+                        "second": "16",
+                        "percentage": 0.27
+                    },
+                    {
+                        "second": "49",
+                        "percentage": 0.2
+                    },
+                    {
+                        "second": "7",
+                        "percentage": 0.37
+                    },
+                    {
+                        "second": "26",
+                        "percentage": 0.24
+                    },
+                    {
+                        "second": "38",
+                        "percentage": 0.22
+                    },
+                    {
+                        "second": "46",
+                        "percentage": 0.2
+                    },
+                    {
+                        "second": "48",
+                        "percentage": 0.2
+                    },
+                    {
+                        "second": "61",
+                        "percentage": 0.18
+                    },
+                    {
+                        "second": "67",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "21",
+                        "percentage": 0.25
+                    },
+                    {
+                        "second": "33",
+                        "percentage": 0.23
+                    },
+                    {
+                        "second": "50",
+                        "percentage": 0.2
+                    },
+                    {
+                        "second": "70",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "12",
+                        "percentage": 0.29
+                    },
+                    {
+                        "second": "29",
+                        "percentage": 0.23
+                    },
+                    {
+                        "second": "55",
+                        "percentage": 0.19
+                    },
+                    {
+                        "second": "58",
+                        "percentage": 0.18
+                    },
+                    {
+                        "second": "13",
+                        "percentage": 0.29
+                    },
+                    {
+                        "second": "35",
+                        "percentage": 0.22
+                    },
+                    {
+                        "second": "5",
+                        "percentage": 0.42
+                    },
+                    {
+                        "second": "54",
+                        "percentage": 0.19
+                    },
+                    {
+                        "second": "30",
+                        "percentage": 0.23
+                    },
+                    {
+                        "second": "18",
+                        "percentage": 0.26
+                    },
+                    {
+                        "second": "41",
+                        "percentage": 0.21
+                    },
+                    {
+                        "second": "42",
+                        "percentage": 0.21
+                    },
+                    {
+                        "second": "60",
+                        "percentage": 0.18
+                    },
+                    {
+                        "second": "63",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "64",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "15",
+                        "percentage": 0.27
+                    },
+                    {
+                        "second": "22",
+                        "percentage": 0.25
+                    },
+                    {
+                        "second": "66",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "11",
+                        "percentage": 0.3
+                    },
+                    {
+                        "second": "2",
+                        "percentage": 0.67
+                    },
+                    {
+                        "second": "34",
+                        "percentage": 0.22
+                    },
+                    {
+                        "second": "4",
+                        "percentage": 0.47
+                    },
+                    {
+                        "second": "9",
+                        "percentage": 0.33
+                    },
+                    {
+                        "second": "14",
+                        "percentage": 0.28
+                    },
+                    {
+                        "second": "68",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "73",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "52",
+                        "percentage": 0.19
+                    },
+                    {
+                        "second": "25",
+                        "percentage": 0.24
+                    },
+                    {
+                        "second": "3",
+                        "percentage": 0.53
+                    },
+                    {
+                        "second": "36",
+                        "percentage": 0.22
+                    },
+                    {
+                        "second": "39",
+                        "percentage": 0.22
+                    },
+                    {
+                        "second": "71",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "72",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "10",
+                        "percentage": 0.31
+                    },
+                    {
+                        "second": "23",
+                        "percentage": 0.25
+                    },
+                    {
+                        "second": "31",
+                        "percentage": 0.23
+                    },
+                    {
+                        "second": "32",
+                        "percentage": 0.23
+                    },
+                    {
+                        "second": "65",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "0",
+                        "percentage": 1.0
+                    },
+                    {
+                        "second": "56",
+                        "percentage": 0.19
+                    },
+                    {
+                        "second": "57",
+                        "percentage": 0.18
+                    },
+                    {
+                        "second": "19",
+                        "percentage": 0.26
+                    },
+                    {
+                        "second": "24",
+                        "percentage": 0.24
+                    },
+                    {
+                        "second": "28",
+                        "percentage": 0.24
+                    },
+                    {
+                        "second": "43",
+                        "percentage": 0.21
+                    },
+                    {
+                        "second": "59",
+                        "percentage": 0.18
+                    },
+                    {
+                        "second": "69",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "20",
+                        "percentage": 0.25
+                    },
+                    {
+                        "second": "37",
+                        "percentage": 0.22
+                    },
+                    {
+                        "second": "6",
+                        "percentage": 0.4
+                    },
+                    {
+                        "second": "62",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "17",
+                        "percentage": 0.27
+                    }
+                ],
+                "new_followers": 0,
+                "phone_number_clicks": 0,
+                "item_id": "7294210559023598866",
+                "favorites": 8,
+                "full_video_watched_rate": 0.2845,
+                "create_time": "1698315743",
+                "caption": "【ポケモンカード151】開封してみた！！#ポケモンカード開封 #ポケカ #社長 #部下 #ベンチャー企業 #大阪 "
+            },
+            {
+                "reach": 2434379,
+                "shares": 232,
+                "website_clicks": 0,
+                "average_time_watched": 33.7,
+                "comments": 181,
+                "engagement_likes": [
+                    {
+                        "second": "67",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "74",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "95",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "19",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "63",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "8",
+                        "percentage": 0.04
+                    },
+                    {
+                        "second": "101",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "51",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "56",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "37",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "50",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "75",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "100",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "64",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "43",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "78",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "65",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "83",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "93",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "18",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "30",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "59",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "104",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "14",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "80",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "26",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "47",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "58",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "13",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "72",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "45",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "52",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "79",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "1",
+                        "percentage": 0.12
+                    },
+                    {
+                        "second": "107",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "91",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "94",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "90",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "69",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "28",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "3",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "48",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "22",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "25",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "86",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "92",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "85",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "49",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "103",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "23",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "41",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "15",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "57",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "76",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "84",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "9",
+                        "percentage": 0.04
+                    },
+                    {
+                        "second": "32",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "44",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "39",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "89",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "97",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "10",
+                        "percentage": 0.09
+                    },
+                    {
+                        "second": "35",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "54",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "98",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "0",
+                        "percentage": 0.09
+                    },
+                    {
+                        "second": "11",
+                        "percentage": 0.04
+                    },
+                    {
+                        "second": "87",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "70",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "82",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "62",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "68",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "31",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "61",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "96",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "106",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "66",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "40",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "55",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "21",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "24",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "20",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "34",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "38",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "53",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "108",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "77",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "73",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "17",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "29",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "42",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "71",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "27",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "36",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "4",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "6",
+                        "percentage": 0.07
+                    },
+                    {
+                        "second": "7",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "5",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "105",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "16",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "33",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "99",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "102",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "12",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "88",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "46",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "60",
+                        "percentage": 0.0
+                    },
+                    {
+                        "second": "2",
+                        "percentage": 0.06
+                    },
+                    {
+                        "second": "81",
+                        "percentage": 0.0
+                    }
+                ],
+                "video_views": 2684804,
+                "likes": 78933,
+                "video_duration": 108.706,
+                "total_time_watched": 90851324.0,
+                "video_view_retention": [
+                    {
+                        "second": "19",
+                        "percentage": 0.35
+                    },
+                    {
+                        "second": "30",
+                        "percentage": 0.31
+                    },
+                    {
+                        "second": "97",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "92",
+                        "percentage": 0.05
+                    },
+                    {
+                        "second": "102",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "73",
+                        "percentage": 0.08
+                    },
+                    {
+                        "second": "64",
+                        "percentage": 0.1
+                    },
+                    {
+                        "second": "75",
+                        "percentage": 0.07
+                    },
+                    {
+                        "second": "81",
+                        "percentage": 0.06
+                    },
+                    {
+                        "second": "16",
+                        "percentage": 0.38
+                    },
+                    {
+                        "second": "29",
+                        "percentage": 0.31
+                    },
+                    {
+                        "second": "89",
+                        "percentage": 0.05
+                    },
+                    {
+                        "second": "90",
+                        "percentage": 0.05
+                    },
+                    {
+                        "second": "103",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "17",
+                        "percentage": 0.37
+                    },
+                    {
+                        "second": "53",
+                        "percentage": 0.16
+                    },
+                    {
+                        "second": "77",
+                        "percentage": 0.07
+                    },
+                    {
+                        "second": "98",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "36",
+                        "percentage": 0.26
+                    },
+                    {
+                        "second": "41",
+                        "percentage": 0.24
+                    },
+                    {
+                        "second": "39",
+                        "percentage": 0.24
+                    },
+                    {
+                        "second": "48",
+                        "percentage": 0.18
+                    },
+                    {
+                        "second": "63",
+                        "percentage": 0.1
+                    },
+                    {
+                        "second": "25",
+                        "percentage": 0.32
+                    },
+                    {
+                        "second": "34",
+                        "percentage": 0.27
+                    },
+                    {
+                        "second": "74",
+                        "percentage": 0.08
+                    },
+                    {
+                        "second": "44",
+                        "percentage": 0.22
+                    },
+                    {
+                        "second": "32",
+                        "percentage": 0.29
+                    },
+                    {
+                        "second": "70",
+                        "percentage": 0.09
+                    },
+                    {
+                        "second": "59",
+                        "percentage": 0.12
+                    },
+                    {
+                        "second": "4",
+                        "percentage": 0.65
+                    },
+                    {
+                        "second": "1",
+                        "percentage": 0.87
+                    },
+                    {
+                        "second": "21",
+                        "percentage": 0.34
+                    },
+                    {
+                        "second": "26",
+                        "percentage": 0.32
+                    },
+                    {
+                        "second": "56",
+                        "percentage": 0.14
+                    },
+                    {
+                        "second": "60",
+                        "percentage": 0.11
+                    },
+                    {
+                        "second": "13",
+                        "percentage": 0.41
+                    },
+                    {
+                        "second": "80",
+                        "percentage": 0.06
+                    },
+                    {
+                        "second": "85",
+                        "percentage": 0.06
+                    },
+                    {
+                        "second": "79",
+                        "percentage": 0.07
+                    },
+                    {
+                        "second": "45",
+                        "percentage": 0.22
+                    },
+                    {
+                        "second": "88",
+                        "percentage": 0.06
+                    },
+                    {
+                        "second": "100",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "23",
+                        "percentage": 0.33
+                    },
+                    {
+                        "second": "7",
+                        "percentage": 0.56
+                    },
+                    {
+                        "second": "71",
+                        "percentage": 0.08
+                    },
+                    {
+                        "second": "47",
+                        "percentage": 0.2
+                    },
+                    {
+                        "second": "65",
+                        "percentage": 0.1
+                    },
+                    {
+                        "second": "57",
+                        "percentage": 0.14
+                    },
+                    {
+                        "second": "10",
+                        "percentage": 0.48
+                    },
+                    {
+                        "second": "101",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "15",
+                        "percentage": 0.39
+                    },
+                    {
+                        "second": "37",
+                        "percentage": 0.25
+                    },
+                    {
+                        "second": "50",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "51",
+                        "percentage": 0.16
+                    },
+                    {
+                        "second": "54",
+                        "percentage": 0.15
+                    },
+                    {
+                        "second": "6",
+                        "percentage": 0.59
+                    },
+                    {
+                        "second": "104",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "11",
+                        "percentage": 0.44
+                    },
+                    {
+                        "second": "82",
+                        "percentage": 0.06
+                    },
+                    {
+                        "second": "66",
+                        "percentage": 0.1
+                    },
+                    {
+                        "second": "76",
+                        "percentage": 0.07
+                    },
+                    {
+                        "second": "96",
+                        "percentage": 0.03
+                    },
+                    {
+                        "second": "42",
+                        "percentage": 0.23
+                    },
+                    {
+                        "second": "62",
+                        "percentage": 0.11
+                    },
+                    {
+                        "second": "14",
+                        "percentage": 0.4
+                    },
+                    {
+                        "second": "99",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "67",
+                        "percentage": 0.09
+                    },
+                    {
+                        "second": "9",
+                        "percentage": 0.5
+                    },
+                    {
+                        "second": "12",
+                        "percentage": 0.42
+                    },
+                    {
+                        "second": "40",
+                        "percentage": 0.24
+                    },
+                    {
+                        "second": "84",
+                        "percentage": 0.06
+                    },
+                    {
+                        "second": "91",
+                        "percentage": 0.05
+                    },
+                    {
+                        "second": "94",
+                        "percentage": 0.04
+                    },
+                    {
+                        "second": "46",
+                        "percentage": 0.21
+                    },
+                    {
+                        "second": "72",
+                        "percentage": 0.08
+                    },
+                    {
+                        "second": "31",
+                        "percentage": 0.3
+                    },
+                    {
+                        "second": "5",
+                        "percentage": 0.61
+                    },
+                    {
+                        "second": "22",
+                        "percentage": 0.34
+                    },
+                    {
+                        "second": "28",
+                        "percentage": 0.31
+                    },
+                    {
+                        "second": "52",
+                        "percentage": 0.16
+                    },
+                    {
+                        "second": "24",
+                        "percentage": 0.32
+                    },
+                    {
+                        "second": "38",
+                        "percentage": 0.25
+                    },
+                    {
+                        "second": "95",
+                        "percentage": 0.04
+                    },
+                    {
+                        "second": "107",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "27",
+                        "percentage": 0.32
+                    },
+                    {
+                        "second": "106",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "61",
+                        "percentage": 0.11
+                    },
+                    {
+                        "second": "69",
+                        "percentage": 0.09
+                    },
+                    {
+                        "second": "83",
+                        "percentage": 0.06
+                    },
+                    {
+                        "second": "2",
+                        "percentage": 0.74
+                    },
+                    {
+                        "second": "58",
+                        "percentage": 0.13
+                    },
+                    {
+                        "second": "87",
+                        "percentage": 0.06
+                    },
+                    {
+                        "second": "0",
+                        "percentage": 1.0
+                    },
+                    {
+                        "second": "55",
+                        "percentage": 0.15
+                    },
+                    {
+                        "second": "68",
+                        "percentage": 0.09
+                    },
+                    {
+                        "second": "20",
+                        "percentage": 0.35
+                    },
+                    {
+                        "second": "78",
+                        "percentage": 0.07
+                    },
+                    {
+                        "second": "86",
+                        "percentage": 0.06
+                    },
+                    {
+                        "second": "3",
+                        "percentage": 0.68
+                    },
+                    {
+                        "second": "33",
+                        "percentage": 0.28
+                    },
+                    {
+                        "second": "8",
+                        "percentage": 0.53
+                    },
+                    {
+                        "second": "93",
+                        "percentage": 0.05
+                    },
+                    {
+                        "second": "105",
+                        "percentage": 0.02
+                    },
+                    {
+                        "second": "43",
+                        "percentage": 0.23
+                    },
+                    {
+                        "second": "18",
+                        "percentage": 0.36
+                    },
+                    {
+                        "second": "49",
+                        "percentage": 0.17
+                    },
+                    {
+                        "second": "108",
+                        "percentage": 0.01
+                    },
+                    {
+                        "second": "35",
+                        "percentage": 0.26
+                    }
+                ],
+                "new_followers": 0,
+                "phone_number_clicks": 0,
+                "item_id": "7248923182198017298",
+                "favorites": 2394,
+                "full_video_watched_rate": 0.0389,
+                "create_time": "1687771455",
+                "caption": "………ほんとうに@ながの社長 リスペクト😭😭😭 #毎日見てます#社長 #部#社長ベ#部下ー#ベンチャー企業ト#シュガートースト#会社で料理#料理も編集もト"
+            }
+        ],
+        "has_more": false
+    },
+    "post_date": "2025-04-26"
+}
